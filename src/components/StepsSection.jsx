@@ -26,7 +26,7 @@ function StepsSection() {
 
       <div className="text-center mt-8">
         <a
-          href="https://rewarrdsgiant.com/aff_c?offer_id=76&aff_id=152657"
+          href="https://rewarduplevel.com/aff_c?offer_id=76&aff_id=152657"
           className="inline-block bg-pink-600 hover:bg-pink-700 text-white px-10 py-5 rounded-2xl text-xl shadow-lg"
         >
           👉 Start Now & Unlock My $750
